@@ -1,0 +1,4 @@
+projectC
+========
+
+sample repository intermediate
